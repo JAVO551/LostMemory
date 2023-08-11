@@ -191,8 +191,14 @@ Esta ultima etapa se caracterizo bastante por la falta de tiempo que hubo, debid
 
 # Conclusión:
 
-*Jorge Gutiérrez:
+-Jorge Gutiérrez:
 
 Con este proyecto he aprendido las implicaciones que tiene realizar un videojuego en Unity, desde las dificultades que puede crear el trabajar en un entorno 3D hasta las diferencias que tiene su forma de programación frente a otros motores con los que ya tengo experiencia. 
 Tras haber probado el proyecto frente al público ha resaltado la importancia del testeo para descubrir posibles fallos que a mí como programador me han costado ver, puesto que cada videojugador tiene un estilo y forma de juego diferente y por ello se deben prevenir todas las posibles formas en que uno podría romper la experiencia.
 Por último, queda mencionar la importancia de planificar y dar sentido al proyecto con la intención de que todos los elementos de la experiencia se puedan conectar de manera armónica. Esto implica comunicación constante con miembros del equipo, conocimiento del género que se va a trabajar y una retroalimentación constante por parte de potenciales jugadores. Un videojuego será bueno cuando sus desarrolladores comprendan que deben ponerse en los zapatos del jugador y cuestionarse si la experiencia puede ser disfrutable e identifican si existen puntos que deban ser pulidos o mejorados.
+
+-Javier Díaz:
+
+Gracias a mi roll en este proyecto e podido comprender bastante las dificultades y sobre todo las necesidades de la creación de un entorno en 3D. La planeación de un entorno en 3D es excesivamente diferente al de uno 2D por la cantidad de variables que tienes que considerar al momento de interactuar con este entorno. Esto provoca que un desarrollo en 3D necesite más tiempo, planeación y pruebas para verificar su correcto funcionamiento, que dicho sea de paso es más dificil hacer pruebas por la cantidad de trabajo extra que implica hacer cambios.
+Como consecuencia de la necesidad de una mejor planeación para ele entorno 3D, me di cuenta y empece a valorar más la comunicación y puntualidad entre los miembros de equipo. Van a salir muchos errores, bastantes, y es por eso que se necesita mantener un ritmo constante de trabajo que pueda superar estos picos de dificultad extra que tiene un proyecto en 3D. Solo con tiempo y planeación podemos desentrañar las dificultades presentes para entender lo que necesitamos.
+
