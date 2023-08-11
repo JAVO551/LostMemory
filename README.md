@@ -124,7 +124,26 @@ Una vez habiamos creado las bases de lo que seria nuestro juego empezamos a deta
 
 -Zonas del mapa:
 
-Diseñamos la v
+Diseñamos una versión casi final de todo el mapa de nuestro plataformero, en el cual creamos variadas zonas que trataran de aprovechar y explotar al maximo las mecánicas que teniamos propuestas:
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/31bb03ce-feab-4f34-8809-6e0ee63fcb40)
+
+*La primera zona seria una montaña con la cual se accederian a todas las demas zonas que se desbloquearian al conseguir más recilectables. Pensamos en una montaña ya que incluia saltos faciles que le sirvieran al jugador de tutorial para acostumbrarse al juego, acompañado de secciones simples de plataformeo para acceder a las demas zonas con el fin de que el jugador no se frustre por no poder avanzar y le permita practicar más-
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/c36a86b8-881e-4409-82b2-a5db5a8a5fb7)
+
+*La segunda zona accesible seria una ciudad desolada la cual contaria con muchisimos puntos de teletransporte ocultos detras de edificios que estarian cada vez en zonas más altas. Aprovechariamos la altura de las edificaciones y sus formas para explotar la sensación de teletransporte y dar sensaciones de "libertad" llegando a casi volar. El completar esta zona de plataformeo haria que empezaran a aparecer los primeros enemigos y se junten la cantidad de coleccionable necesarios para desbloquear la tercera zona.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/0e266a1a-37fb-48b4-ab88-fe4494a5e7c9)
+
+*La tercera zona sería un cementerio con puzlezz basados en suelos que te harian daño, saltos precisos y teletransportes precisos. El objetivo de esta zona seria probar la paciencia del jugador y darle una sensación muy antagónica a la dada en la anterior zona, una sensación de "limitación". Completar esta zona te daria los coleccionables suficientes para pasar a la zona final del juego.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/c3594847-72d7-47fe-869c-db48cf6cbc6a)
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/f90838fc-2cbc-4666-b06f-58bd46aaeddd)
+
+*La zona final del juego buscamos que fuera dinámica y satisfactoria, por lo que optamos por una pelea con un jefe final en el juego. La idea original era crear un combate lo más dinámico y explosivo posible, creando un campo de batalla en el cual el jugaor pudiera desplazarse como en una zona de plataformeo para pelear contra el jefe de distintas maneras.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/bf98d9c1-8a20-4769-96dc-e1b69fde84e8)
 
 
 # Conclusión:
