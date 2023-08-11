@@ -2,7 +2,7 @@
 
 Equipo: 3
 
-<<<<<<< HEAD
+
 Integrantes:
 
 
@@ -33,10 +33,11 @@ Fase 1: Planeación de mecánicas y temáticas inicial.
 En la primera reunión celebrada entre el coder y el artista se empezaron a formar las ideas que darían forma al objetivo de plataformero shooter. Los acuerdos a los que se llegaron y las inspiraciones que se tomarian fueron las siguientes:
 
 -Inspirarse en el diseño de niveles del videojuego "Super Mario 64" para la creación del mapa principal.
-  Esto debido a que Mario Bros a sido un estandarte en la calidad e inovación en el genero de plataformeo y el videojuego previamente citado lleva estos     adjetivos a un entorno en 3D. 
+  Esto debido a que Mario Bros a sido un estandarte en la calidad e inovación en el genero de plataformeo y el videojuego previamente citado lleva estos adjetivos a un entorno en 3D. 
 ![image](https://github.com/Nayarb61/2ndLevel_-SODVI/assets/112450653/31fc9233-8a2a-4fc1-8014-6cc7d4c8e4b6)
 
-
+-La primera propuesta de temática hecha fue el de vaqueros mágicos. 
+  La desición de esta temática fue tratar de darle sentido orgánico a la necesidad de incluir mecanicas de disparos a su vez de tratarle de dar un toque    de originalidad. De aqui se quedo el nombre clave "Vaqueros Pipeados".
 
 # Conclusión:
 
