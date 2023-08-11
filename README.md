@@ -146,6 +146,49 @@ Diseñamos una versión casi final de todo el mapa de nuestro plataformero, en e
 ![image](https://github.com/JAVO551/LostMemory/assets/112450653/bf98d9c1-8a20-4769-96dc-e1b69fde84e8)
 
 
+-Enemigos:
+
+En este punto necesitabamos incluir retos en el juego para evitar su simpleza y monotonia así que se propusieron 2 tipos de enemigos: terrestre y aereo. Los enemigos terrestres aparecerian frecuentemente en las distintas zonas del mapa y unicamente harian daño por contacto. Los eneimigos areos aparecerian en zonas tardias del juego debido a su dificultad para acabar con ellos y perseguirian constantemente al jugador.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/a063e369-beb3-453e-885a-3e8f98ffb079)
+
+-Jefe Final:
+El diseño del jefe final era importante para dar una sensación de satisfacción al momento de terminar el juego. Se opto por una apariencia similar a la del jugador, pero en un tamaño considerablemente mayor para crear una sensación de familiaridad y necesidad de superación. Los patrones de ataque de dicho enemigo engobarian ataque físicos acercandose al jugador y una gran cantidad de proyectiles a la istancia para crear una sensación de desenfreno.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/73b5f109-5853-4c79-9f32-188e6f34ef86)
+
+
+-Historia e interacciones con el jugador:
+Con el fin de crear un vinculo de familiaridad con el jugador y mantener su intriga, decidimos contar un poco de la historia y lore del videojuego a travez de mensajes que aparecerian conforme se obtuvieran los coleccionable, conectando tambien con la temática del juego.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/a72c6ef0-5548-4c6a-a2ac-22547fca7801)
+
+
+FASE 5: Recortes y Resultados.
+
+Esta ultima etapa se caracterizo bastante por la falta de tiempo que hubo, debido a retrasos y falta de comunicación a lo largo de la creación de este videojuego hubo poco tiempo para terminar el proyecto. Ante esto hubo varios recortes de contenido y simplificaciones de cosas que ya se estaban trabajando.
+
+-Recortes de contenido:
+*La zona del cementerio fue completamente eliminada debido a que el tiempo de diseño de puzlezz era demasiado grande para la cantidad de tiempo de juego que proporcionaban.
+*Se eliminaron los enemigos aereos por la dificultad tan grande que radicaba programarlos.
+*Se elimino el estilo de somras de los modelos en 3D debido a que no se podian exportar a Unity como se esperaba y correjir los error tomaria demasiado tiempo al necesitar modificar todo el proyecto. La texturas regresaron a tener un estilo realista.
+*No se trabajo la mecanica de salto extendido y se decidio eliminar para darle prioridad al diseño de zonas con la mecánica de teletransporte.
+
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/7b13375c-b7a0-4728-9aae-29e613bca67a)
+
+-Limitaciones de contenido:
+*La zona de ciudad paso a tener menos variedad en su infraestructura y su diseño de plataformeo cambio para lucir más la unica mecanica de teletransporte.
+*La inteligencia artificial del jefe final no se pudo trabajar tanto y se crearon sus movimientos más simples.
+*El campo de batalla del jefe final se simplifico enormemente hasta llegar a un sitio plano y sin plataformas.
+*Por falta de comunicación solo se incluyeron dos piezas de música.
+
+-Resultados:
+*Se logro inclui en un fondo foscuro y mágico para toda la zona del mapa que ayudo mucho a recuperar la estética original.
+*A cambio de la eliminación de la zona del cementerio se expandio y trabajo más en la zona de la montaña para incluir más jugabilidad.
+*Aqui pueden ver una muestra del juego finalizado: https://youtu.be/6fCI7qWzDoE 
+![image](https://github.com/JAVO551/LostMemory/assets/112450653/6ef72844-1b5f-460e-8f1f-2e57e510f835)
+
+
 # Conclusión:
 
 *Jorge Gutiérrez:
